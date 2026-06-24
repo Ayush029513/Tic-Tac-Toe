@@ -40,3 +40,7 @@ python main.py
 - Scoreboard
 - Dark Theme
 - Sound Effects
+
+## Screenshot
+
+![Game Screenshot](assets/screenshot.png)
