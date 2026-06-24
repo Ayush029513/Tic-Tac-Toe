@@ -43,4 +43,4 @@ python main.py
 
 ## Screenshot
 
-![Game Screenshot](assets/screenshot.png)
+![AI Tic Tac Toe](assets/screenshot.png)
